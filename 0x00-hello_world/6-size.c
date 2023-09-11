@@ -1,8 +1,8 @@
 #include<stdio.h>
 /*
- * Main- Entry point
- * description - Print various types on the computer it is compiled and run on.
+ * Main- Prints various types on the computer it is compiled and run on.
  *
+ *Return: Always 0.
  */
 	int main(void)
 	{
