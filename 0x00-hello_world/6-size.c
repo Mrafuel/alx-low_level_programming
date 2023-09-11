@@ -1,8 +1,7 @@
 #include<stdio.h>
 /*
- * Main- Entry point.
+ * Main- Prints the size of various types on the computer and run on
  *
- * Description: Prints the size of various tpes on pc its compiled and run on
  * Return: Always 0 (Success)
  */
 
