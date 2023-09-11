@@ -2,10 +2,11 @@
 /*
  * Main- Entry point.
  *
+ * Description: Prints the size of various tpes on pc its compiled and run on
  * Return: Always 0 (Success)
  */
+
 	int main(void)
-	//Description: Prints the size of various tpes on pc its compiled and run on.
 	{
 		printf("Size of a char: %zu byte(s)\n", sizeof(char));
 		printf("Size of an int: %zu byte(s)\n", sizeof(int));
