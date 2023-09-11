@@ -1,6 +1,7 @@
 #include<stdio.h>
 /*
  * Main- Entry point
+ * description - Print various types on the computer it is compiled and run on.
  *
  */
 	int main(void)
