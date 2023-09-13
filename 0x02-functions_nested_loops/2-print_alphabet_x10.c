@@ -10,7 +10,7 @@ void print_alphabet_x10(void)
 
 	while (count++ <= 9)
 	{
-		for (loweCase = 'a'; loweCase<= 'z'; loweCase++)
+		for (loweCase = 'a'; loweCase <= 'z'; loweCase++)
 			_putchar(loweCase);
 		_putchar('\n');
 	}
