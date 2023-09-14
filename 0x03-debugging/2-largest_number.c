@@ -4,6 +4,7 @@
  * @a: first integer
  * @b: second integer
  * @c: third integer
+ *
  * Return: largest number
  */
 
